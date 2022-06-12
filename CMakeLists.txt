@@ -3,4 +3,4 @@ project(Template)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Template main.cpp)
+add_executable(Template main.cpp Auto.cpp Auto.h Persona.cpp Persona.h)
